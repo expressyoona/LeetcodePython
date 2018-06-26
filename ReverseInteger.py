@@ -18,5 +18,3 @@ class Solution:
                 return 0
             else:
                 return (-1)*int(st[::-1])
-        
-        
