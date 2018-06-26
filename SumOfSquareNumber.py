@@ -10,4 +10,3 @@ class Solution:
             if i*i + j*j == c:
                 return True
         return False
-        
