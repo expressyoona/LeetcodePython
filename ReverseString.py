@@ -4,5 +4,5 @@ class Solution:
         :type s: str
         :rtype: str
         """
-        return s[-1:-len(s)-1:-1]
+        return s[::-1]
         
