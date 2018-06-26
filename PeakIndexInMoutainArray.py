@@ -10,4 +10,3 @@ class Solution:
                 Max = A[num]
                 i = num
         return i
-        
