@@ -1,2 +1,2 @@
 # LeetcodePython
-Some exercise doesn't have in list Algorithm exam.
+Some exercise doesn't have on the list Algorithm exam.
