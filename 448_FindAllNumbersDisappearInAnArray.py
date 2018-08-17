@@ -1,9 +1,5 @@
 class Solution(object):
     def findDisappearedNumbers(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[int]
-        """
         L = set(nums)
         n = len(nums)
         result = []
