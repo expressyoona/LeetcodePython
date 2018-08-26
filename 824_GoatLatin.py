@@ -1,9 +1,5 @@
 class Solution(object):
     def toGoatLatin(self, S):
-        """
-        :type S: str
-        :rtype: str
-        """
         def isVowel(letter):
             return letter in {'u', 'e', 'o', 'a', 'i', 'U', 'E', 'O', 'A', 'I'}
         words = S.split(' ')
