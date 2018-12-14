@@ -1,2 +1,2 @@
 # LeetcodePython
-Some exercise doesn't have on the list Algorithm exam.
+Over 100 Python Leetcode's problem solution
